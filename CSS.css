@@ -1,0 +1,177 @@
+body {
+			padding:5px;
+			background-image:url(https://i.imgur.com/5BeKbK9.png);
+			margin: 0px;
+
+		}
+		.margem {
+			margin:0px;
+
+		}
+		#menu ul {
+			position:fixed;
+			top: -0.2%;
+			padding:0px;
+			margin:0px;
+			float: left;
+			width: 100%;
+			background-color:#EDEDED;
+			list-style:none;
+			font:80% Tahoma;
+		}
+ 
+		#menu ul li a {
+
+
+			background-color:#EDEDED;
+			color: #889;
+			text-decoration: none;
+			padding: 2px 10px;
+			float:left;
+
+
+		}
+		
+		.logo{
+			background-color: #EDEDED;
+			position: static;
+			
+
+		}
+		.amp {    font-size: 48px;
+			position: fixed;
+			text-align: center
+			
+
+			    line-height: ;
+			    color: #333;
+			    margin: 0;
+			    padding-top: 140px;
+			    font-family: 'Merriweather', serif;
+			    font-weight: center ;
+			    text-align: center;
+			    width: 85%;
+			    height: 10em;
+   				
+				    margin: 0;
+				   
+				    position: absolute;
+				    top: 50%;
+				    left: 50%;
+				    margin-right: -50%;
+				    transform: translate(-50%, -50%) 
+			    }
+
+		.botttom {
+			 position: absolute;
+			 padding-top: 140px;
+			 
+			    height: 10em;
+				    top: 50%;
+				    left: 50%;
+				    margin-right: -50%;
+				    transform: translate(-50%, -50%)
+		}
+		.back {left:0%;
+			top:1000%;
+		    margin: 0px;
+		   
+
+		}
+		.burntt{position:absolute;
+			left:70%;
+			bottom: 50%;
+			text-align:left;
+			
+			margin: 20px}
+
+		.intab{position:absolute;
+			left:70%;
+			bottom: 57%;
+			text-align:left;
+			
+			margin: 20px}
+
+		.pinterest{position:absolute;
+			left:70%;
+			bottom: 64%;
+			text-align:left;
+			
+			margin: 20px}
+
+		.faface{position:absolute;
+			left:70%;
+			bottom: 71%;
+			text-align:left;
+			
+			margin: 20px}
+		
+		.Blogpost {
+			left:0%;
+			top:0%;
+		    margin: 30px;
+
+
+		}
+		.JJ{margin: 90px;
+		}
+		.KK{background-color: #EDEDED;
+			font-family: Optima, sans-serif; 
+			text-align:left;
+			left:0%;
+			right: 0%;
+			top:0%;
+		    margin: 90px;
+
+	}
+
+
+		  .Photo {
+
+	        width: 0px;
+	        
+	        position: relative;
+	        display: inline-block;
+	        margin: 0px;
+	       
+	    }
+	    .Photo .img-top {
+	        display: none;
+	      
+	        position: absolute;
+	        top: 0;
+	        left: 0;
+	        z-index: 99;
+	        
+	    }
+	    .Photo:hover .img-top {
+	        display: inline;
+	        position: absolute;
+	        
+	    }
+	    .lead{ background-color: #EDEDED; }
+
+	    .Textin {padding-left: 4%;
+	    		padding-right: 4%;
+	    		background-color: #EDEDED;
+	    		padding-bottom: 7%;  }
+
+	    .textodemais {
+	    	padding-left: 3%;
+	    	padding-right: 5%;
+	    	background-color: #EDEDED;
+
+	    }
+	    
+
+
+
+footer {
+	
+	text-align:center;
+	font-family:Arial;
+font-size:10pt;
+	style= left:2%; top:97%;
+width:96%; height:3%; z-index:2;
+background-color: #f3672a;
+}
